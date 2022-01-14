@@ -13,4 +13,6 @@ What did you learn?
 What makes your project stand out?
 If your project has a lot of features, consider adding a "Features" section and listing them here.
 
-https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/ \*
+https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+
+\*
